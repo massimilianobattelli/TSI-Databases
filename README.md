@@ -1,3 +1,3 @@
 # Gym MySQL Database
 
-Simple database of a hypotetical gym
+Simple database of an hypotetical gym
